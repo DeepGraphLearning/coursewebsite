@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resource
-permalink: /resource
+permalink: /resource.html
 nav_order: 2
 ---
 
