@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Machine Learning II: Deep Learning"
-permalink: /
+permalink: /index
 nav_order: 0
 people:
   - name: Prof. Jian Tang

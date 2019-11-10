@@ -15,7 +15,7 @@ remote_theme           : "pmarsceill/just-the-docs"
 # Site settings
 title: "MATH 80600A"
 description: "Machine Learning II: Deep Learning"
-url: # "https://deepgraphlearning.github.io/coursewebsite"
+url: "https://deepgraphlearning.github.io/coursewebsite"
 baseurl: # the subpath of your site, e.g. /blog
 
 # Files
