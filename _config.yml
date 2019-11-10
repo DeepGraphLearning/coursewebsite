@@ -16,7 +16,7 @@ remote_theme           : "pmarsceill/just-the-docs"
 title: "MATH 80600A"
 description: "Machine Learning II: Deep Learning"
 baseurl: # the subpath of your site, e.g. /blog
-url: "https://kiddozhu.github.io/deeplearningcourse"
+url: "https://deepgraphlearning.github.io/coursewebsite/"
 
 # Files
 permalink: /:categories/:title/
