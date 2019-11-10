@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: /project.html
+permalink: /project
 nav_order: 1
 ---
 
