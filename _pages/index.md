@@ -63,8 +63,9 @@ Prerequisites
 -------------
 - Linear algebra
 - Python programming language
-- Machine Learning I: Large-scale machine learning and decision making
-- Data Mining
+- One of following courses
+  - Machine Learning I: Large-scale machine learning and decision making
+  - Data Mining
 
 Evaluation
 ----------
