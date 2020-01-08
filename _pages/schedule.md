@@ -47,6 +47,10 @@ schedule:
     presentations:
       - name: ResNet
         url: http://arxiv.org/abs/1512.03385
+      - name: GRU
+        url: https://arxiv.org/abs/1412.3555
+      - name: UNet
+        url: https://arxiv.org/abs/1505.04597
     homework:
       name: Homework 2
       url:
