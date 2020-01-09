@@ -100,7 +100,7 @@ schedule:
         url: https://arxiv.org/abs/1403.6652
       - name: LINE
         url: https://arxiv.org/abs/1503.03578
-    presentaions:
+    presentations:
       - name: Node2Vec
         url: https://arxiv.org/abs/1607.00653
       - name: Metapath2Vec
