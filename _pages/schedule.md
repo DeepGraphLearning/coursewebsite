@@ -5,7 +5,13 @@ permalink: /schedule
 nav_order: 1
 schedule:
   - date: 1 / 9, 10
-    topic: Introduction, Mathematics & Machine Learning Basics
+    topics:
+    - name: Introduction
+      url: https://www.dropbox.com/s/wrx8k00rxz2txr2/Week1-Intro.pdf?dl=0
+    - name: Mathematics
+      url: https://www.dropbox.com/s/qnl3wqws3hehf5l/Week1-Maths.pdf?dl=0
+    - name: Machine Learning Basics
+      url: https://www.dropbox.com/s/3l5nqiwzcanzlqq/Week1-ML.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 2
@@ -15,7 +21,7 @@ schedule:
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
   - date: 1 / 16, 17
-    topic: Feedforward Neural Networks & Optimization Tricks
+    topics: Feedforward Neural Networks & Optimization Tricks
     readings:
       - name: Deep Learning Book
       - name: Chap. 6
@@ -25,7 +31,7 @@ schedule:
       - name: Chap. 8
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: 1 / 23, 24
-    topic: PyTorch
+    topics: PyTorch
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
@@ -37,7 +43,7 @@ schedule:
       name: Homework 1
       url:
   - date: 1 / 30, 31
-    topic: Convolutional Neural Networks & Recurrent Neural Networks
+    topics: Convolutional Neural Networks & Recurrent Neural Networks
     readings:
       - name: Deep Learning Book
       - name: Chap. 9
@@ -55,7 +61,7 @@ schedule:
       name: Homework 2
       url:
   - date: 2 / 6, 7
-    topic: Natural Language Processing I
+    topics: Natural Language Processing I
     readings:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
@@ -71,7 +77,7 @@ schedule:
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
   - date: 2 / 13, 14
-    topic: Natural Language Processing II
+    topics: Natural Language Processing II
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
@@ -90,11 +96,11 @@ schedule:
       name: Homework 3
       url:
   - date: 2 / 20, 21
-    topic: Q & A for Projects
+    topics: Q & A for Projects
   - date: 2 / 27, 28
-    topic: <b><i>No class</i></b>
+    topics: <b><i>No class</i></b>
   - date: 3 / 5, 6
-    topic: Graph Representation Learning I
+    topics: Graph Representation Learning I
     readings:
       - name: DeepWalk
         url: https://arxiv.org/abs/1403.6652
@@ -108,7 +114,7 @@ schedule:
       - name: LargeVis
         url: https://arxiv.org/abs/1602.00370
   - date: 3 / 12, 13
-    topic: Graph Representation Learning II
+    topics: Graph Representation Learning II
     readings:
       - name: RESCAL
         url: http://www.cip.ifi.lmu.de/~nickel/data/slides-icml2011.pdf
@@ -124,7 +130,7 @@ schedule:
       - name: RotatE
         url: https://arxiv.org/abs/1902.10197
   - date: 3 / 19, 20
-    topic: Graph Representation Learning III
+    topics: Graph Representation Learning III
     readings:
       - name: Graph Convolutional Networks
         url: https://arxiv.org/abs/1609.02907
@@ -143,7 +149,7 @@ schedule:
       name: Homework 4
       url: 
   - date: 3 / 26, 27
-    topic: Recommender Systems
+    topics: Recommender Systems
     readings:
       - name: Bayesian Personalized Ranking
         url: https://arxiv.org/abs/1205.2618
@@ -159,7 +165,7 @@ schedule:
       - name: DGRec
         url: https://arxiv.org/abs/1902.09362
   - date: 4 / 2, 3
-    topic: Deep Generative Models
+    topics: Deep Generative Models
     readings:
       - name: VAE
         url: https://arxiv.org/abs/1312.6114
@@ -168,9 +174,9 @@ schedule:
       - name: CycleGAN
         url: https://arxiv.org/abs/1703.10593
   - date: 4 / 9, 14
-    topic: Poster Sessions
+    topics: Poster Sessions
   - date: 4 / 18
-    topic: <b><i>Final Exam</i></b>
+    topics: <b><i>Final Exam</i></b>
 ---
 
 Schedule
@@ -196,7 +202,11 @@ Important Dates
   {% for week in page.schedule %}
     <tr>
       <td>{{ week.date }}</td>
-      <td>{% include href item=week.topic %}</td>
+      <td>
+      {% for topic in week.topics %}
+        {% include href item=topic %}<br>
+      {% endfor %}
+      </td>
       <td>
       {% for reading in week.readings %}
         {% include href item=reading %}<br>
