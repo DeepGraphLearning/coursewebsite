@@ -55,8 +55,8 @@ schedule:
         url: http://arxiv.org/abs/1512.03385
       - name: GRU
         url: https://arxiv.org/abs/1412.3555
-      - name: Network in Network
-        url: https://arxiv.org/abs/1312.4400
+      - name: DenseNet
+        url: https://arxiv.org/abs/1608.06993
     homework:
       name: Homework 2
       url:
