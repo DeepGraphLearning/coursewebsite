@@ -40,11 +40,12 @@ Info
 - **Instructor**: [Jian Tang]
 - **Trimester**: Winter 2020
 - **When**:
-  - **Class 1**: Thu: 8:30 - 11:30
-  - **Class 2**: Fri: 15:30 - 18:30
+  - **Class 1**: Thu: 8:30 - 11:30 am
+  - **Class 2**: Fri: 3:30 - 6:30 pm
 - **Where**:
   - [Quebecor, Côte-Sainte-Catherine][Quebecor]
   - **Class 2 on 3 / 20**: [BDC, Côte-Sainte-Catherine][BDC]
+- **Office hour**: Thu: 2:00 - 3:00 pm, 4.805, HEC Montréal
 
 [Jian Tang]: https://jian-tang.com
 [Quebecor]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html
