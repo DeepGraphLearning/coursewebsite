@@ -39,9 +39,6 @@ schedule:
         url: https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
-    homework:
-      name: Homework 1
-      url:
   - date: 1 / 30, 31
     topics: Convolutional Neural Networks & Recurrent Neural Networks
     readings:
@@ -50,6 +47,9 @@ schedule:
         url: http://www.deeplearningbook.org/contents/convnets.html
       - name: Chap. 10
         url: http://www.deeplearningbook.org/contents/rnn.html
+    homework:
+      name: Homework 1
+      url:
     presentations:
       - name: ResNet
         url: http://arxiv.org/abs/1512.03385
