@@ -57,9 +57,6 @@ schedule:
         url: https://arxiv.org/abs/1412.3555
       - name: DenseNet
         url: https://arxiv.org/abs/1608.06993
-    homework:
-      name: Homework 2
-      url:
   - date: 2 / 6, 7
     topics: Natural Language Processing I
     readings:
@@ -93,7 +90,7 @@ schedule:
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
     homework:
-      name: Homework 3
+      name: Homework 2
       url:
   - date: 2 / 20, 21
     topics: Q & A for Projects
@@ -146,7 +143,7 @@ schedule:
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
     homework:
-      name: Homework 4
+      name: Homework 3
       url: 
   - date: 3 / 26, 27
     topics: Recommender Systems
