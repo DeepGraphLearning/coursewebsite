@@ -45,6 +45,7 @@ Info
 - **Where**:
   - [Quebecor, Côte-Sainte-Catherine][Quebecor]
   - **Class 2 on 3 / 20**: [BDC, Côte-Sainte-Catherine][BDC]
+- **Office hour**: Thu: 2:00 - 3:00 pm, 4.805, HEC Montréal
 
 [Jian Tang]: https://jian-tang.com
 [Quebecor]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html
