@@ -21,7 +21,9 @@ schedule:
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
   - date: 1 / 16, 17
-    topics: Feedforward Neural Networks & Optimization Tricks
+    topics:
+    - name: Feedforward Neural Networks & Optimization Tricks
+      url: https://www.dropbox.com/s/jg9o0edpu29jgc8/Week2-FFN%26Regularization.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 6
