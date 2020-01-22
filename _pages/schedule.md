@@ -53,7 +53,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/rnn.html
     homework:
       name: Homework 1
-      url: https://colab.research.google.com/drive/1mhhF9FPHSmePtVQrhNBwRujfUkOjUspj#forceEdit=true&sandboxMode=true
+      url: 
     presentations:
       - name: ResNet
         url: http://arxiv.org/abs/1512.03385
