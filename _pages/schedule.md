@@ -33,7 +33,9 @@ schedule:
       - name: Chap. 8
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: 1 / 23, 24
-    topics: PyTorch
+    topics:
+      - name: PyTorch
+        url: https://www.dropbox.com/s/tuvz0r3516ud22d/Week3-PyTorch.pdf?dl=0
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
