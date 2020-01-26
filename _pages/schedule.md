@@ -77,12 +77,6 @@ schedule:
         url: https://arxiv.org/abs/1503.00075
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
-    j1:
-      - name: DenseNet
-      - name: Sophia Zhang, Samuel Tremblay, Gabriel Lainesse, Bryan Parahy
-      - name:
-      - name: GRU
-      - name: Ted Kong, Ludovic St-Denis, Amine Ech-Cherif
   - date: 2 / 13, 14
     topics: Natural Language Processing II
     readings:
@@ -204,8 +198,6 @@ Important Dates
     <th>Topic</th>
     <th>Suggested Readings</th>
     <th>Reference for Presentations</th>
-    <th>Presentation J1</th>
-    <th>Presentation J2</th>
     <th>Homework</th>
   </tr>
   {% for week in page.schedule %}
@@ -224,16 +216,6 @@ Important Dates
       <td>
       {% for presentation in week.presentations %}
         {% include href item=presentation %}<br>
-      {% endfor %}
-      </td>
-      <td>
-      {% for i in week.j1 %}
-        {% include href item=i %}<br>
-      {% endfor %}
-      </td>
-      <td>
-      {% for i in week.j2 %}
-        {% include href item=i %}<br>
       {% endfor %}
       </td>
       <td>{% include href item=week.homework %}</td>
