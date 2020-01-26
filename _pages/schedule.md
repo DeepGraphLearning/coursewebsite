@@ -20,10 +20,6 @@ schedule:
         url: http://www.deeplearningbook.org/contents/prob.html
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
-    j1:
-      - name: TBD
-    j2:
-      - name: TBD
   - date: 1 / 16, 17
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
@@ -81,6 +77,12 @@ schedule:
         url: https://arxiv.org/abs/1503.00075
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
+    j1:
+      - name: DenseNet
+      - name: Sophia Zhang, Samuel Tremblay, Gabriel Lainesse, Bryan Parahy
+      - name:
+      - name: GRU
+      - name: Ted Kong, Ludovic St-Denis, Amine Ech-Cherif
   - date: 2 / 13, 14
     topics: Natural Language Processing II
     readings:
