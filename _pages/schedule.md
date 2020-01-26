@@ -21,9 +21,9 @@ schedule:
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
     j1:
-      -name: TBD
+      - name: TBD
     j2:
-      -name: TBD
+      - name: TBD
   - date: 1 / 16, 17
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
