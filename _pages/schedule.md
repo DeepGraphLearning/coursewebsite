@@ -21,7 +21,9 @@ schedule:
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
   - date: 1 / 16, 17
-    topics: Feedforward Neural Networks & Optimization Tricks
+    topics:
+    - name: Feedforward Neural Networks & Optimization Tricks
+      url: https://www.dropbox.com/s/jg9o0edpu29jgc8/Week2-FFN%26Regularization.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 6
@@ -31,7 +33,9 @@ schedule:
       - name: Chap. 8
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: 1 / 23, 24
-    topics: PyTorch
+    topics:
+      - name: PyTorch
+        url: https://www.dropbox.com/s/tuvz0r3516ud22d/Week3-PyTorch.pdf?dl=0
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
@@ -39,9 +43,6 @@ schedule:
         url: https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
-    homework:
-      name: Homework 1
-      url:
   - date: 1 / 30, 31
     topics: Convolutional Neural Networks & Recurrent Neural Networks
     readings:
@@ -50,16 +51,16 @@ schedule:
         url: http://www.deeplearningbook.org/contents/convnets.html
       - name: Chap. 10
         url: http://www.deeplearningbook.org/contents/rnn.html
+    homework:
+      name: Homework 1
+      url: 
     presentations:
       - name: ResNet
         url: http://arxiv.org/abs/1512.03385
       - name: GRU
         url: https://arxiv.org/abs/1412.3555
-      - name: Network in Network
-        url: https://arxiv.org/abs/1312.4400
-    homework:
-      name: Homework 2
-      url:
+      - name: DenseNet
+        url: https://arxiv.org/abs/1608.06993
   - date: 2 / 6, 7
     topics: Natural Language Processing I
     readings:
@@ -93,7 +94,7 @@ schedule:
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
     homework:
-      name: Homework 3
+      name: Homework 2
       url:
   - date: 2 / 20, 21
     topics: Q & A for Projects
@@ -146,7 +147,7 @@ schedule:
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
     homework:
-      name: Homework 4
+      name: Homework 3
       url: 
   - date: 3 / 26, 27
     topics: Recommender Systems
