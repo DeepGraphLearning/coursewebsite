@@ -20,6 +20,10 @@ schedule:
         url: http://www.deeplearningbook.org/contents/prob.html
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
+    j1:
+      -name: TBD
+    j2:
+      -name: TBD
   - date: 1 / 16, 17
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
@@ -198,6 +202,8 @@ Important Dates
     <th>Topic</th>
     <th>Suggested Readings</th>
     <th>Reference for Presentations</th>
+    <th>Presentation J1</th>
+    <th>Presentation J2</th>
     <th>Homework</th>
   </tr>
   {% for week in page.schedule %}
@@ -216,6 +222,16 @@ Important Dates
       <td>
       {% for presentation in week.presentations %}
         {% include href item=presentation %}<br>
+      {% endfor %}
+      </td>
+      <td>
+      {% for i in week.j1 %}
+        {% include href item=i %}<br>
+      {% endfor %}
+      </td>
+      <td>
+      {% for i in week.j2 %}
+        {% include href item=i %}<br>
       {% endfor %}
       </td>
       <td>{% include href item=week.homework %}</td>
