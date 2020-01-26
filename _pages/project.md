@@ -8,6 +8,10 @@ nav_order: 2
 Course Project
 ==============
 
+[Full instructions] can be downloaded here.
+
+[Full instructions]: assets/files/Instructions on Course Projects.pdf
+
 Guidelines
 ----------
 
