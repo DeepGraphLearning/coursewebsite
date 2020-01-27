@@ -51,9 +51,13 @@ schedule:
         url: http://www.deeplearningbook.org/contents/convnets.html
       - name: Chap. 10
         url: http://www.deeplearningbook.org/contents/rnn.html
-    homework:
-      name: Homework 1
-      url: 
+    homeworks:
+      - name: Instruction
+        url: assets/files/hw1_instruction.pdf
+      - name: Colab
+        url: https://colab.research.google.com/drive/1mhhF9FPHSmePtVQrhNBwRujfUkOjUspj#scrollTo=mY-OzP6E4JWU&forceEdit=true&sandboxMode=true
+      - name: PDF version
+        url: assets/files/hw1.pdf
     presentations:
       - name: ResNet
         url: http://arxiv.org/abs/1512.03385
@@ -93,9 +97,9 @@ schedule:
         url: https://arxiv.org/abs/1606.05250
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
-    homework:
-      name: Homework 2
-      url:
+    homeworks:
+      - name: Homework 2
+        url:
   - date: 2 / 20, 21
     topics: Q & A for Projects
   - date: 2 / 27, 28
@@ -146,9 +150,9 @@ schedule:
         url: https://arxiv.org/abs/1806.01973
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
-    homework:
-      name: Homework 3
-      url: 
+    homeworks:
+      - name: Homework 3
+        url: 
   - date: 3 / 26, 27
     topics: Recommender Systems
     readings:
@@ -218,7 +222,11 @@ Important Dates
         {% include href item=presentation %}<br>
       {% endfor %}
       </td>
-      <td>{% include href item=week.homework %}</td>
+      <td>
+      {% for homework in week.homeworks %}
+        {% include href item=homework %}<br>
+      {% endfor %}
+      </td>
     </tr>
   {% endfor %}
 </table>
