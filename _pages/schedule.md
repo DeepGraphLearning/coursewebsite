@@ -198,7 +198,9 @@ Important Dates
 
 Scheduals for In-class Presentations
 ---------------
-The schedual for in-class presentations is available at the [link]: https://docs.google.com/spreadsheets/d/13g-Y-v2tDRcbWyHboEIVN7erdOJ4glc9GJT8TnkC-5I/edit?usp=sharing .
+The schedual for in-class presentations is available at the [link].
+
+[link]: https://docs.google.com/spreadsheets/d/13g-Y-v2tDRcbWyHboEIVN7erdOJ4glc9GJT8TnkC-5I/edit?usp=sharing .
 
 <table>
   <tr>
