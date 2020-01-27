@@ -196,7 +196,7 @@ Important Dates
   - **Poster**: 4 / 14
   - **Final Exam**: 4 / 18
 
-schedule for In-class Presentations
+Schedule for In-class Presentations
 ---------------
 The schedule for in-class presentations is available at the [link].
 
