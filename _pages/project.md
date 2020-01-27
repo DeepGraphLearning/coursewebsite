@@ -26,7 +26,7 @@ Guidelines
 [examples of posters]: https://postersession.ai/
 [the NeurIPS format]: https://nips.cc/Conferences/2015/PaperInformation/StyleFiles
 
-Schedule
+schedule
 ----------
 
 - **Group formation due**: 1 / 30
