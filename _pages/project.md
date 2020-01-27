@@ -36,6 +36,11 @@ Schedule
   - **Class 2**: 4 / 14
 - **Final report due**: 4 / 25
 
+Groups for Course Projects
+----------
+
+The groups for course projects can be found at [the Google sheet]: https://docs.google.com/spreadsheets/d/13g-Y-v2tDRcbWyHboEIVN7erdOJ4glc9GJT8TnkC-5I/edit?usp=sharing .
+
 List of References
 ------------------
 

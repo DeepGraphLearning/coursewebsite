@@ -196,6 +196,10 @@ Important Dates
   - **Poster**: 4 / 14
   - **Final Exam**: 4 / 18
 
+Scheduals for In-class Presentations
+---------------
+The schedual for in-class presentations is available at the [link]: https://docs.google.com/spreadsheets/d/13g-Y-v2tDRcbWyHboEIVN7erdOJ4glc9GJT8TnkC-5I/edit?usp=sharing .
+
 <table>
   <tr>
     <th>Date</th>
