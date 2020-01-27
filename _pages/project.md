@@ -8,6 +8,8 @@ nav_order: 2
 Course Project
 ==============
 
+The goal of the course project is to apply deep learning techniques learned in class (it is fine if you use the techniques not introduced in class) to solve real-world problems or develop new deep learning techniques. You are expected to work in teams and learn to collaborate with your teammates. Each group should make a poster in the final class and participate in the poster session to present your results and communicate with other teams. A report should also be submitted at the end of the course.
+
 [Full instructions] can be downloaded here.
 
 [Full instructions]: assets/files/Instructions on Course Projects.pdf
@@ -15,20 +17,24 @@ Course Project
 Guidelines
 ----------
 
-- Students should form groups of 2-3 people to finish their course projects. Each group should choose a specific research topic related to deep learning. Students can either choose a topic from the following reference list, or discuss possible topics with TAs.
+- The project proposal is a summary of your proposed research topic and study plan. It should include the background of the problem (context and motivation), problem definition, and a plan on how you want to study it. The project proposal should be at most 2 pages.
 
-- Once the topic is decided, students should read and summarize relevant papers, implement corresponding models and conduct experiments in various settings.
+- The suggested poster size will be updated later. Some [examples of posters] in conferences are available here.
 
-- Each group is required to submit a project report of about 4 to 8 pages. The report should be in NeurIPS / ICLR paper format, and is expected to include introduction, problem definition, related work, methodology, experiments, and conclusion. Each group is also required to give an 8-minute presentation on their project.
+- The final report should give a comprehensive description of your projects. It should contain a section about the motivation and definition of your selected topics, a section summarizing the related work, a section on the techniques you used for solving the problem, an empirical section presenting your data sets and results with detailed analysis, and a conclusion section. The report should be at most 8 pages (not including references) using [the NeurIPS format]. The final report should be submitted in pdf format.
+
+[examples of posters]: https://postersession.ai/
+[the NeurIPS format]: https://nips.cc/Conferences/2015/PaperInformation/StyleFiles
 
 Schedule
 ----------
 
-- **Proposal due**: TBD
-- **Report due**: TBD
+- **Group formation due**: 1 / 30
+- **Proposal due**: 3 / 1
 - **Poster presentation**:
   - **Class 1**: 4 / 9
   - **Class 2**: 4 / 14
+- **Final report due**: 4 / 25
 
 List of References
 ------------------
