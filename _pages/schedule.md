@@ -45,7 +45,7 @@ schedule:
         url: https://github.com/dsgiitr/d2l-pytorch
   - date: 1 / 30, 31
     topics:
-      - name:Convolutional Neural Networks & Recurrent Neural Networks
+      - name: Convolutional Neural Networks & Recurrent Neural Networks
         url: https://www.dropbox.com/s/8pukzk5ui9xzdsn/Week4-CNN%26RNN.pdf?dl=0
     readings:
       - name: Deep Learning Book
