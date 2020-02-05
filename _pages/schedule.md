@@ -19,7 +19,7 @@ schedule:
       - name: Chap. 3
         url: http://www.deeplearningbook.org/contents/prob.html
       - name: Chap. 5
-        url: http://www.deeplearningbook.org/contents/ml.htRml
+        url: http://www.deeplearningbook.org/contents/ml.html
   - date: 1 / 16, 17
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
