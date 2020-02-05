@@ -19,7 +19,7 @@ schedule:
       - name: Chap. 3
         url: http://www.deeplearningbook.org/contents/prob.html
       - name: Chap. 5
-        url: http://www.deeplearningbook.org/contents/ml.html
+        url: http://www.deeplearningbook.org/contents/ml.htRml
   - date: 1 / 16, 17
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
@@ -68,7 +68,9 @@ schedule:
       - name: DenseNet
         url: https://arxiv.org/abs/1608.06993
   - date: 2 / 6, 7
-    topics: Natural Language Processing I
+    topics:
+      - name: Natural Language Processing I
+        url: https://www.dropbox.com/s/wg5l7s0vx9ggdu4/Week5-NLP-basics.pdf?dl=0
     readings:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
