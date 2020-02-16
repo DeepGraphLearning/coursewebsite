@@ -70,7 +70,7 @@ schedule:
   - date: 2 / 6, 7
     topics:
       - name: Natural Language Processing I
-        url: https://www.dropbox.com/s/wg5l7s0vx9ggdu4/Week5-NLP-basics.pdf?dl=0
+        url: https://www.dropbox.com/s/v1u72llvc7jvgpp/Week5-NLP-basics.pdf?dl=0
     readings:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
@@ -86,7 +86,8 @@ schedule:
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
   - date: 2 / 13, 14
-    topics: Natural Language Processing II
+      - name: topics: Natural Language Processing II
+        url: https://www.dropbox.com/s/3blfewbg1gcl3bp/Week6-NLP-advanced.pdf?dl=0
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
