@@ -86,6 +86,7 @@ schedule:
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
   - date: 2 / 13, 14
+    topics:
       - name: topics: Natural Language Processing II
         url: https://www.dropbox.com/s/3blfewbg1gcl3bp/Week6-NLP-advanced.pdf?dl=0
     readings:
