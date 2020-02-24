@@ -10,9 +10,10 @@ Course Project
 
 The goal of the course project is to apply deep learning techniques learned in class (it is fine if you use the techniques not introduced in class) to solve real-world problems or develop new deep learning techniques. You are expected to work in teams and learn to collaborate with your teammates. Each group should make a poster in the final class and participate in the poster session to present your results and communicate with other teams. A report should also be submitted at the end of the course.
 
-[Full instructions] can be downloaded here.
+[Full instructions] can be downloaded here. [GCP tutorial] can be found here.
 
 [Full instructions]: assets/files/Instructions on Course Projects.pdf
+[GCP tutorial]: assets/files/GCP tutorial.pdf
 
 Guidelines
 ----------
