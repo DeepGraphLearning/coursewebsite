@@ -91,11 +91,13 @@ schedule:
         url: https://arxiv.org/abs/1503.00075
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
-    homeworks:
-      - name: Homework 2
-        url:
   - date: 2 / 20, 21
     topics: Q & A for Projects
+    homeworks:
+      - name: Instruction
+        url: assets/files/hw2_instruction.pdf
+      - name: Kaggle
+        url: https://www.kaggle.com/c/hecmontrealdeeplearningcourse
   - date: 2 / 27, 28
     topics: <b><i>No class</i></b>
   - date: 3 / 5, 6
@@ -136,9 +138,6 @@ schedule:
         url: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
       - name: LargeVis
         url: https://arxiv.org/abs/1602.00370
-    homeworks:
-      - name: Homework 3
-        url:
   - date: 3 / 26, 27
     topics: Graph Representation Learning II
     readings:
