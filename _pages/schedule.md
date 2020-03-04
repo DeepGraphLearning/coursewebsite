@@ -103,7 +103,7 @@ schedule:
   - date: 3 / 5, 6
     topics:
       - name: Natural Language Processing III
-        url: https://www.dropbox.com/s/3blfewbg1gcl3bp/Week6-NLP-advanced.pdf?dl=0
+        url: https://www.dropbox.com/s/16pb0y92q9zmiqp/Week7-NLP-advanced.pdf?dl=0
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
@@ -115,7 +115,7 @@ schedule:
   - date: 3 / 12, 13
     topics:
       - name: Natural Language Processing IV
-        url: https://www.dropbox.com/s/3blfewbg1gcl3bp/Week6-NLP-advanced.pdf?dl=0
+        url: https://www.dropbox.com/s/16pb0y92q9zmiqp/Week7-NLP-advanced.pdf?dl=0
     readings:
       - name: BERT
         url: https://arxiv.org/abs/1810.04805
