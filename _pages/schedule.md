@@ -115,7 +115,7 @@ schedule:
   - date: 3 / 12, 13
     topics:
       - name: Natural Language Processing IV
-        url: https://www.dropbox.com/s/xif200df4vdeu14/Week7-DL4NLP-part2.pdf?dl=0
+        url: https://www.dropbox.com/s/zj31nwm7ferc20h/Week8-DL4NLP-part3.pdf?dl=0
     readings:
       - name: BERT
         url: https://arxiv.org/abs/1810.04805
