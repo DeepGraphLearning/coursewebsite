@@ -125,7 +125,9 @@ schedule:
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
   - date: 3 / 19, 20
-    topics: Graph Representation Learning I
+    topics:
+      - name: Graph Representation Learning I
+        url: https://www.dropbox.com/s/ypg1at7burdzfwz/Week9-Graph-part1.pdf?dl=0
     readings:
       - name: DeepWalk
         url: https://arxiv.org/abs/1403.6652
