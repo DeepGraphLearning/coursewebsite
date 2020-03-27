@@ -156,6 +156,8 @@ schedule:
         url: https://arxiv.org/abs/1806.01973
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
+    homeworks:
+      - Homework 3
   - date: 4 / 2, 3
     topics: Recommender Systems
     readings:
@@ -172,15 +174,16 @@ schedule:
         url: https://arxiv.org/abs/1810.11921
       - name: DGRec
         url: https://arxiv.org/abs/1902.09362
-  - date: 4 / 9, 14
-    topics: Poster Sessions
-  - date: 4 / 18
-    topics: <b><i>Final Exam</i></b>
+#  - date: 4 / 9, 14
+#    topics: Poster Sessions
+#  - date: 4 / 18
+#    topics: <b><i>Final Exam</i></b>
 ---
 
 Schedule
 ========
 
+<!--
 Important Dates
 ---------------
 - **Class 1**:
@@ -189,12 +192,13 @@ Important Dates
 - **Class 2**:
   - **Poster**: 4 / 14
   - **Final Exam**: 4 / 18
+-->
 
 Schedule for In-class Presentations
 ---------------
 The schedule for in-class presentations is available at the [link].
 
-[link]: https://docs.google.com/spreadsheets/d/13g-Y-v2tDRcbWyHboEIVN7erdOJ4glc9GJT8TnkC-5I/edit?usp=sharing .
+[link]: https://docs.google.com/spreadsheets/d/15-WzdbETQxlNcJZO9X1ny2wh0b5T2EZyf7MgCqTVE-o/edit?usp=sharing
 
 <table>
   <tr>

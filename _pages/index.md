@@ -70,10 +70,13 @@ Prerequisites
 
 Evaluation
 ----------
-- **Homework**: 20%
+
+Due to the pandemic, the final exam and the poster presentation are cancelled.
+
+- **Homework**: <del>20%</del> 60% = 3 * 20%
 - **Presentations**: 10%
-- **Projects**: 40% = proposal 5% + poster 10% + report 25%
-- **Final Exam**: 30%
+- **Projects**: 30% = proposal 5% + <del>poster 10%</del> + report 25%
+- <del>**Final Exam**: 30%</del>
 
 -----------
 

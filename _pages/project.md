@@ -27,15 +27,18 @@ Guidelines
 [examples of posters]: https://postersession.ai/
 [the NeurIPS format]: https://nips.cc/Conferences/2015/PaperInformation/StyleFiles
 
-schedule
-----------
+Schedule
+--------
 
 - **Group formation due**: 1 / 30
 - **Proposal due**: 3 / 1
+- **Final report due**: 4 / 30
+
+<!--
 - **Poster presentation**:
   - **Class 1**: 4 / 9
   - **Class 2**: 4 / 14
-- **Final report due**: 4 / 25
+-->
 
 Groups for Course Projects
 ----------
