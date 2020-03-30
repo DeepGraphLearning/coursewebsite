@@ -141,7 +141,9 @@ schedule:
       - name: LargeVis
         url: https://arxiv.org/abs/1602.00370
   - date: 3 / 26, 27
-    topics: Graph Representation Learning II
+    topics:
+      - name: Graph Representation Learning II
+        url: https://www.dropbox.com/s/wkbvf8dvzyaefze/Week9-Graph-part2.pdf?dl=0
     readings:
       - name: Graph Convolutional Networks
         url: https://arxiv.org/abs/1609.02907
