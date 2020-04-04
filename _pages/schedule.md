@@ -157,7 +157,12 @@ schedule:
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
     homeworks:
-      - Homework 3
+      - name: Instruction
+        url: assets/files/hw3_instruction.pdf
+      - name: Colab
+        url: https://colab.research.google.com/drive/1f0_enZ8Y4OBSfHJSPcXgBNjsXgzlUlX-#scrollTo=8wrJNV7gMGrT&forceEdit=true&sandboxMode=true
+      - name: PDF version
+        url: assets/files/hw3.pdf
   - date: 4 / 2, 3
     topics: Recommender Systems
     readings:
